@@ -19,7 +19,7 @@ async function startServer() {
         await AppDataSource.initialize();
 
         console.log(
-            "Banco conectado com sucesso"
+            "Banco conectado com sucesso para voce lindao"
         );
 
         app.listen(
